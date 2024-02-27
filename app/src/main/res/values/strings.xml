@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Habitify</string>
+
+
+    <string name="add_button">Add Button</string>
+    <string name="search_action">Search Quests</string>
+    <string name="sort_action">Sort Quests</string>
+    <string name="delete_all_action">Delete All Quests</string>
+    <string name="list_screen_title">Quests</string>
+    <string name="completed_list_screen_title">Completed Quests</string>
+    <string name="stats_screen_title">Personal Stats</string>
+    <string name="search_placeholder">Search</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="close_icon">Close Icon</string>
+    <string name="sad_face_icon">Sad Face Icon</string>
+    <string name="empty_content">No Quests Found</string>
+    <string name="add_quest">Add Quest</string>
+    <string name="back_ARR">Back Arrow</string>
+    <string name="delete_icon">Delete Icon</string>
+    <string name="update_icon">Update Icon</string>
+    <string name="drop_down_arrow">Drop-Down Arrow Icon</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="delete_quest">Remove \'%1$s\'?</string>
+    <string name="delete_quest_confirmation">Are you sure you want to remove \'%1$s\'?</string>
+    <string name="delete_all_quests">Remove all quests?</string>
+    <string name="delete_all_quests_confirmation">Are you sure you want to remove all quests ( complete &amp; uncompleted)? It will reset all your stats! There is no going back after this action!</string>
+    <string name="to_do_logo">Habitify Logo</string>
+    <string name="check_icon">Check Icon</string>
+    <string name="title_activity_testing">testing</string>
+    <string name="left_label">Not ready yet :(</string>
+    <string name="right_label">Done! :)</string>
+    <string name="quests_list">Quests</string>
+    <string name="completed_quests_list">Completed Quests</string>
+    <string name="completed_list">Done</string>
+    <string name="stats">My Stats</string>
+    <string name="select_date">Select Date</string>
+</resources>
